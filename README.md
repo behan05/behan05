@@ -79,16 +79,3 @@ A personal portfolio showcasing my web development skills and projects.
 > **"A developer is a problem solver, and I strive to become a better one every day."**
 
 ---
-
-### Changes Made:
-
-- **Divs for icons:** All the technology icons are now wrapped inside `div` containers with a nice **box-shadow**, **padding**, and **border** to make the section look more organized and visually appealing.
-- **Flexbox:** Used `flexbox` to arrange the icons, with responsive wrapping and spacing between them.
-- **Borders and Shadows:** These effects help give each section a neat and professional feel.
-
-### Result:
-
-- This layout makes the technology icons appear in organized blocks that stand out from the rest of the content, giving the profile a modern and clean look.
-- The box shadows add depth, and the padding ensures that the icons are not cramped, improving readability.
-
-You can try this in your GitHub profile README by adding the relevant HTML structure and see the polished result!
