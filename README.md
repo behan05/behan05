@@ -14,14 +14,14 @@ I work with cutting-edge technologies to create impactful digital experiences. B
   <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-64.png" alt="CSS3" width="66px" />
   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"  alt="JavaScript" width="66px" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-64.png" alt="React" width="66px" />
-  <img src="https://img.shields.io/badge/GSAP-88C0D0?style=flat-square&logo=gsap&logoColor=white" alt="GSAP" width="66px" />
+  <img src="https://img.shields.io/badge/GSAP-88C0D0?style=flat-square&logo=gsap&logoColor=white" alt="GSAP" width="66px" height="75px" />
 </div>
 
 ### **Backend Technologies**  
 <div style="display: flex; gap: 20px; flex-wrap: wrap; padding: 20px; border: 2px solid #ddd; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-nodejs-64.png" alt="Node.js" width="66px" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" width="66px" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="MongoDB" width="66px" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/454/nodejs-new-pantone-white-64.png" alt="Node.js" width="66px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png?f=webp&w=256" alt="MongoDB" width="66px" />
+  <img src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express.js" width="66px" />
 </div>
 
 ### **Programming Languages**  
@@ -31,14 +31,14 @@ I work with cutting-edge technologies to create impactful digital experiences. B
 
 ### **Frameworks & Libraries**  
 <div style="display: flex; gap: 20px; flex-wrap: wrap; padding: 20px; border: 2px solid #ddd; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://cdn1.iconfinder.com/data/icons/akar-vol-1/24/django-fill-64.png" alt="Django" width="66px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-logo-icon-download-in-svg-png-gif-file-formats--programming-language-logos-pack-icons-1175036.png?f=webp&w=256" alt="Django" width="66px" />
 </div>
 
 ### **Other Tools**  
 <div style="display: flex; gap: 20px; flex-wrap: wrap; padding: 20px; border: 2px solid #ddd; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-64.png" alt="Git" width="66px" />
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-iconez/64/GitHub-64.png" alt="GitHub" width="66px" />
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-8/32/vs_code-visual_studio_code-logo-microsoft-code-64.png" alt="VS Code" width="66px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-675821.png?f=webp&w=256" alt="GitHub" width="66px" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-logo-icon-download-in-svg-png-gif-file-formats--vs-editore-coding-brand-filled-line-pack-logos-icons-2724650.png?f=webp&w=256" alt="VS Code" width="66px" />
 </div>
 
 ---
