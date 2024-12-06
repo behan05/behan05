@@ -12,9 +12,9 @@ I work with cutting-edge technologies to create impactful digital experiences. B
 <div style="display: flex; gap: 20px; flex-wrap: wrap; padding: 20px; border: 2px solid #ddd; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-256.png" width="66px" alt="HTML5" />
   <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/css3-64.png" alt="CSS3" width="66px" />
-  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"  alt="JavaScript" width="66px" />
+  <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="JavaScript" width="66px" />
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-64.png" alt="React" width="66px" />
-  <img src="https://img.shields.io/badge/GSAP-88C0D0?style=flat-square&logo=gsap&logoColor=white" alt="GSAP" width="66px" height="71px" />
+  <img src="https://img.shields.io/badge/GSAP-88C0D0?style=flat-square&logo=gsap&logoColor=white" alt="GSAP" style="border-radius: 20px; width="66px" height="71px" />
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/scss-1-236126.png?f=webp&w=256" alt="SCSS" width="66px" />
 </div>
 
