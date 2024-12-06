@@ -67,7 +67,7 @@ A web application to test and validate APIs, providing a user-friendly interface
 ## 📫 **How to Reach Me**  
 - **LinkedIn:** [Behan Kumar](https://www.linkedin.com/in/behan-kumar)  
 - **Email:** [behankrbth@outlook.com](mailto:behankrbth@outlook.com)
-- **Phone:** [8969015583]
+- **Phone:** 8969015583
 
 ---
 
