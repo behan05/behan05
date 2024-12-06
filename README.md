@@ -46,15 +46,15 @@ I work with cutting-edge technologies to create impactful digital experiences. B
 
 ## 🔥 **Projects**
 
-### **[Video Call Chat App](https://github.com/behan05/Video-Call-Chat-App)**  
-A real-time video calling and messaging web app built with JavaScript, Node.js, and MongoDB.  
-- **Technologies Used:** JavaScript, Node.js, MongoDB, WebRTC, Express.js  
-- **Role:** Full Stack Developer  
-
-### **[Portfolio](https://github.com/behan05/portfolio)**  
+### **[Portfolio](https://github.com/behan05/devfolio-behan)**  
 A personal portfolio showcasing my web development skills and projects.  
 - **Technologies Used:** HTML, CSS, JavaScript, React, GSAP, Node.js  
 - **Role:** Full Stack Developer  
+
+### **[API Checker Tool](https://github.com/behan05/API-Checker-Tool)**  
+A web application to test and validate APIs, providing a user-friendly interface for developers to interact with and debug APIs. 
+- **Technologies Used:** HTML, CSS, JavaScript, Node.js, Express.js, etc  
+- **Role:** Full Stack Developer
 
 ---
 
@@ -65,8 +65,9 @@ A personal portfolio showcasing my web development skills and projects.
 ---
 
 ## 📫 **How to Reach Me**  
-- **LinkedIn:** [Behan Kumar](https://www.linkedin.com/in/behan-kumar)  
-- **Email:** [behankrbth@outlook.com](mailto:behankrbth@outlook.com)
+- **LinkedIn: ** [Behan Kumar](https://www.linkedin.com/in/behan-kumar)  
+- **Email: ** [behankrbth@outlook.com](mailto:behankrbth@outlook.com)
+- **Phone: ** [8969015583]
 
 ---
 
