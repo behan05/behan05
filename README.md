@@ -46,7 +46,7 @@ I work with cutting-edge technologies to create impactful digital experiences. B
 
 ## 🔥 **Projects**
 
-### **[Portfolio](https://github.com/behan05/devfolio-behan)**  
+### **[Portfolio](https://behan05.github.io/devfolio-behan/)**  
 A personal portfolio showcasing my web development skills and projects.  
 - **Technologies Used:** HTML, CSS, JavaScript, React, GSAP, Node.js  
 - **Role:** Full Stack Developer  
