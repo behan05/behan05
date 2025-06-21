@@ -46,7 +46,7 @@ I work with cutting-edge technologies to create impactful digital experiences. B
 
 ## 🔥 **Projects**
 
-### **[Portfolio](https://behan05.github.io/devfolio-behan/)**  
+### **[Portfolio](https://behan-portfolio.vercel.app/)**  
 A personal portfolio showcasing my web development skills and projects.  
 - **Technologies Used:** HTML, CSS, JavaScript, React, GSAP, Node.js  
 - **Role:** Full Stack Developer  
@@ -59,8 +59,8 @@ A web application to test and validate APIs, providing a user-friendly interface
 ---
 
 ## 📚 **Currently Learning**  
-- **Redux** (In Progress)  
-- **Express.js & MongoDB** (Deep Dive)
+- **Next.js** (In Progress)  
+- **AWS solution architechture
 
 ---
 
@@ -73,7 +73,7 @@ A web application to test and validate APIs, providing a user-friendly interface
 
 ## 🎯 **Goals**  
 - Build more full-stack projects  
-- Master advanced topics in React and Node.js  
+- Master advanced topics in different technologies  
 - Contribute to open-source projects
 
 ---
