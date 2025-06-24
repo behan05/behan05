@@ -51,7 +51,7 @@ Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functio
 
 ## 🔥 Projects
 
-### 💬 [Connect – Realtime Chat App](https://github.com/behan05)
+### 💬 [Connect – Realtime Chat App](https://github.com/behan05/real-time-chat-app.git)
 A real-time chat application inspired by WhatsApp. Supports instant messaging and Socket.IO-powered live conversations.  
 **Features:** Live chat, chat logs with timestamps, video call UI support, modern UI  
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO, MUI  
