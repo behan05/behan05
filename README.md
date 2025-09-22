@@ -51,11 +51,11 @@ Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functio
 
 ## 🔥 Projects
 
-### 💬 [Connect – Realtime Chat App](https://github.com/behan05/real-time-chat-app.git)
-A real-time chat application inspired by WhatsApp. Supports instant messaging and Socket.IO-powered live conversations.  
-**Features:** Live chat, chat logs with timestamps, video call UI support, modern UI  
+### 💬 [Pairly – couple friendly random chatting app](https://github.com/behan05/pairly)
+A real-time chat application built with security and user privacy in mind. Currently supports private text messaging, with Couple Mode video/audio features planned.  
+**Features:** Private chat, chat logs with timestamps, secure messaging, modern responsive UI  
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO, MUI  
-**Role:** Full Stack Developer
+**Role:** Full Stack Developer & Open-Source Maintainer
 
 ---
 
