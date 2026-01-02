@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Behan Kumar  
-## 💻 Full-Stack Developer | MERN Enthusiast | Passionate Problem Solver
+## 💻 Full-Stack Engineer | MERN Enthusiast | Passionate Problem Solver
 
 I build real-world web applications with a focus on performance, usability, and scalable architecture. My approach blends clean design, responsive UIs, and powerful backend systems. I’m driven by curiosity and enjoy exploring new technologies to solve real-world problems.
 
@@ -9,7 +9,7 @@ I build real-world web applications with a focus on performance, usability, and 
 
 Take a look at my live portfolio showcasing my projects, skills, design approach, and animations:
 
-👉 **[https://behan-portfolio.vercel.app/](https://behan-portfolio.vercel.app/)**
+👉 **[https://behan-portfolio.vercel.app/](https://behan.vercel.app/)**
 
 Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functionality and aesthetics.
 
@@ -51,7 +51,7 @@ Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functio
 
 ## 🔥 Projects
 
-### 💬 [Pairly – (open-source)](https://github.com/behan05/pairly)
+### 💬 [Pairly](https://github.com/behan05/pairly)
 A real-time couple friendly chat application built with security and user privacy in mind. Currently supports private text messaging, with Couple Mode video/audio features planned.  
 **Features:** Private chat, chat logs with timestamps, secure messaging, modern responsive UI  
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO, MUI  
@@ -70,11 +70,11 @@ A modern, visually rich digital agency website designed to highlight services, c
 
 ## 🎯 Goals
 
-- ✅ Build more impactful full-stack projects  
-- ✅ Deepen skills in **system design** and **Next.js**  
-- ✅ Learn cloud platforms (AWS) and deployment strategies  
-- ✅ Start contributing to open-source  
-- ✅ Explore WebRTC, video streaming, and chat-based tech
+- Build more impactful full-stack projects  
+- Deepen skills in **system design** and **Next.js**  
+- Learn cloud platforms (AWS) and deployment strategies  
+- Start contributing to open-source  
+- Explore WebRTC, video streaming, and chat-based tech
 
 ---
 
