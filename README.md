@@ -9,7 +9,7 @@ I build real-world web applications with a focus on performance, usability, and 
 
 Take a look at my live portfolio showcasing my projects, skills, design approach, and animations:
 
-👉 **[https://behan-portfolio.vercel.app/](https://behan.vercel.app/)**
+👉 **[https://behan.vercel.app/](https://behan.vercel.app/)**
 
 Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functionality and aesthetics.
 
