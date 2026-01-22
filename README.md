@@ -22,6 +22,7 @@ Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functio
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
@@ -51,12 +52,12 @@ Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functio
 
 ## 🔥 Projects
 
-### 💬 [Pairly](https://pairly.chat)
-A real-time couple friendly chat application built with security and user privacy in mind. Currently supports private text messaging, with Couple Mode video/audio features planned.  
+### 💬 [Pairly](https://pairly.chat) Open-Source
+Pairly is an open-source Real-Time Chat Platform built with security and user privacy in mind. Currently supports private text messaging, with Couple Mode video/audio features planned.  
 **Features:** Private chat, chat logs with timestamps, secure messaging, modern responsive UI  
 **Tech Stack:** React, Node.js, Express.js, MongoDB, Socket.IO, MUI  
 **Role:** Full Stack Developer
-
+**Source Code:** https://github.com/behan05/pairly
 ---
 
 ### 🎨 [Brandora – Digital Agency Website](https://brandora-agency.vercel.app/)
@@ -64,8 +65,7 @@ A modern, visually rich digital agency website designed to highlight services, c
 **Features:** Pixel-perfect UI, responsive design, interactive sections, service-based layout  
 **Tech Stack:** React, Material-UI (MUI), HTML, CSS, GSAP  
 **Role:** Frontend Developer (UI/UX focused)
-
-
+**Source Code:** https://github.com/behan05/brandora-digital-agency
 ---
 
 ## 🎯 Goals
