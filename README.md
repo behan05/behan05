@@ -66,8 +66,9 @@ Pairly is an open-source chat platform that prioritizes **security and user priv
 A modern, visually rich digital agency website designed to highlight services, client work, and branding. Built with a strong focus on responsive layout, smooth animations, and elegant user experience.  
 **Features:** Pixel-perfect UI, responsive design, interactive sections, service-based layout  
 **Tech Stack:** React, Material-UI (MUI), HTML, CSS, GSAP  
+
 **Role:** Frontend Developer (UI/UX focused)
-**Source Code:** https://github.com/behan05/brandora-digital-agency
+**Source Code:** [GutHub](https://github.com/behan05/brandora-digital-agency)
 
 ---
 
