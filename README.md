@@ -56,6 +56,7 @@ Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functio
 Pairly is an open-source chat platform that prioritizes **security and user privacy**. Currently supports private text messaging, with **Couple Mode (video/audio)** features planned for future updates.  
 **Features:** Private 1-on-1 chat, timestamped chat logs, secure messaging, responsive modern UI  
 **Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
 **Role:** Full Stack Developer  
 **Source Code:** [GitHub](https://github.com/behan05/pairly)
 
