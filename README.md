@@ -1,100 +1,82 @@
-# 👋 Hi, I'm Behan Kumar  
-## 💻 Full-Stack Engineer | MERN Enthusiast | Passionate Problem Solver
+# Hi, I'm Behan Kumar 👋
 
-I build real-world web applications with a focus on performance, usability, and scalable architecture. My approach blends clean design, responsive UIs, and powerful backend systems. I’m driven by curiosity and enjoy exploring new technologies to solve real-world problems.
+**Full-Stack Developer** — I build and ship real products, not just tutorial projects.
 
----
+I built **[Pairly](https://pairly.chat)** (real-time chat platform, 395+ commits, live users across multiple countries) and **[Brandora](https://brandora-agency.vercel.app)** (full-stack agency platform) independently — from architecture to deployment.
 
-## 🌐 Visit My Portfolio
-
-Take a look at my live portfolio showcasing my projects, skills, design approach, and animations:
-
-👉 **[https://behan.vercel.app/](https://behan.vercel.app/)**
-
-Built with **React**, **MUI**, **GSAP**, and a custom UI to reflect both functionality and aesthetics.
+🌐 **Portfolio:** [behan.vercel.app](https://behan.vercel.app)
+📫 **Email:** behankrbth@outlook.com
+💼 **LinkedIn:** [Behan Kumar](https://www.linkedin.com/in/behan-kumar-25151b2ba/)
+🟢 **Open to Work** — Full-Stack / Frontend Developer roles
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
-### 🛠️ Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
-
-### 🧠 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 📦 Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### 🌐 Other Tools
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
 ## 🔥 Projects
 
-### 💬 [Pairly](https://pairly.chat) – Open-Source Real-Time Chat Platform
-Pairly is an open-source chat platform that prioritizes **security and user privacy**. Currently supports private text messaging, with **Couple Mode (video/audio)** features planned for future updates.  
-**Features:** Private 1-on-1 chat, timestamped chat logs, secure messaging, responsive modern UI  
-**Tech Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+### 💬 [Pairly — Real-Time Chat Platform](https://pairly.chat)
+Full-stack real-time chat platform built independently from architecture to production.
+- Real-time messaging with Socket.IO, JWT auth, MongoDB data models
+- Comprehensive admin dashboard with analytics, moderation, and billing
+- Live for real users across multiple countries — 395+ commits
+- Currently adding: Anonymous Connect feature
 
-**Role:** Full Stack Developer  
-**Source Code:** [GitHub](https://github.com/behan05/pairly)
-
----
-
-### 🎨 [Brandora – Digital Agency Website](https://brandora-agency.vercel.app/)
-A modern, visually rich digital agency website designed to highlight services, client work, and branding. Built with a strong focus on responsive layout, smooth animations, and elegant user experience.  
-**Features:** Pixel-perfect UI, responsive design, interactive sections, service-based layout  
-**Tech Stack:** React, Material-UI (MUI), HTML, CSS, GSAP  
-
-**Role:** Frontend Developer (UI/UX focused)
-**Source Code:** [GutHub](https://github.com/behan05/brandora-digital-agency)
+**Stack:** React · Node.js · Express.js · MongoDB · Socket.IO  
+**Code:** [github.com/behan05/pairly](https://github.com/behan05/pairly)
 
 ---
 
-## 🎯 Goals
+### 📊 [Chat App Admin Dashboard](https://chat-platform-admin.vercel.app)
+Production-ready admin dashboard template for chat applications.
+- Real-time analytics, user management, content moderation
+- Security controls, billing & subscription management
+- Clean dark UI, fully responsive, API-ready
 
-- Build more impactful full-stack projects  
-- Deepen skills in **system design** and **Next.js**  
-- Learn cloud platforms (AWS) and deployment strategies  
-- Start contributing to open-source  
-- Explore WebRTC, video streaming, and chat-based tech
-
----
-
-## 📚 Currently Learning
-
-- **Next.js** – Advanced frontend architecture  
-- **AWS** – Solution architecture and deployment  
-- **WebRTC** – Real-time video/audio communication  
+**Stack:** React · Material UI · Node.js  
+**Code:** [github.com/behan05/chat-platform-admin](https://github.com/behan05/chat-platform-admin)
 
 ---
 
-## 📫 Contact Me
+### 🎨 [Brandora — Digital Agency Platform](https://brandora-agency.vercel.app)
+Full-stack digital agency web application with GSAP animations and backend APIs.
+- Node.js/Express backend for newsletter and contact forms
+- Fully responsive across all devices — ~25% performance improvement
+- Deployed on Vercel + Render
 
-- **LinkedIn:** [Behan Kumar](https://www.linkedin.com/in/behan-kumar-25151b2ba/)  
-- **Email:** [behankrbth@outlook.com](mailto:behankrbth@outlook.com)
+**Stack:** React · Node.js · Express.js · MongoDB · GSAP · Material UI  
+**Code:** [github.com/behan05/brandora-digital-solutions](https://github.com/behan05/brandora-digital-solutions)
 
 ---
 
-> _"Great software isn't built overnight. I code to grow, contribute, and create value — one commit at a time."_  
+## 📊 GitHub Stats
+
+![Behan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=behan05&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behan05&layout=compact&theme=dark&hide_border=true)
+
+---
+
+> _"From idea to production — one person, zero team, 395 commits. That's how I build."_
